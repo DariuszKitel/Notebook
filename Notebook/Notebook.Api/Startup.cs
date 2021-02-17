@@ -7,6 +7,10 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Notebook.Core.Repositories;
+using Notebook.Infrastructure.Mappers;
+using Notebook.Infrastructure.Repositories;
+using Notebook.Infrastructure.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,7 +30,9 @@ namespace Notebook.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
+            services.AddScoped<INoteRepository, NoteRepository>();
+            services.AddScoped<INoteService, NoteService>();
+            services.AddSingleton(AutoMapperConfig.Initialize());
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

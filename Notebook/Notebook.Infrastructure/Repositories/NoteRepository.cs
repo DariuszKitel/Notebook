@@ -7,7 +7,7 @@ using System.Text;
 
 namespace Notebook.Infrastructure.Repositories
 {
-    class NoteRepository : INoteRepository
+    public class NoteRepository : INoteRepository
     {
         //Simulating database fields
         private static readonly ISet<Note> _notes = new HashSet<Note>()
@@ -30,7 +30,7 @@ namespace Notebook.Infrastructure.Repositories
         }
         public void Update(Note note)
         {
-            throw new NotImplementedException();
+                
         }
         public void Delete(Note note)
         {

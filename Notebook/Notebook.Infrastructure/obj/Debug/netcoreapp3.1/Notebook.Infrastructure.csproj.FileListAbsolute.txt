@@ -1,0 +1,4 @@
+D:\asp.net core\Notebook\Notebook\Notebook.Infrastructure\bin\Debug\netcoreapp3.1\Notebook.Core.dll
+D:\asp.net core\Notebook\Notebook\Notebook.Infrastructure\obj\Debug\netcoreapp3.1\Notebook.Infrastructure.csprojAssemblyReference.cache
+D:\asp.net core\Notebook\Notebook\Notebook.Infrastructure\obj\Debug\netcoreapp3.1\Notebook.Infrastructure.AssemblyInfoInputs.cache
+D:\asp.net core\Notebook\Notebook\Notebook.Infrastructure\obj\Debug\netcoreapp3.1\Notebook.Infrastructure.AssemblyInfo.cs
