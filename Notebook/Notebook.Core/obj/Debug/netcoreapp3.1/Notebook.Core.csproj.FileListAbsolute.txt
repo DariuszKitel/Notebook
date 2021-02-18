@@ -1,0 +1,9 @@
+D:\asp.net core\Notebook\Notebook\Notebook.Core\bin\Debug\netcoreapp3.1\Notebook.Core.deps.json
+D:\asp.net core\Notebook\Notebook\Notebook.Core\bin\Debug\netcoreapp3.1\Notebook.Core.dll
+D:\asp.net core\Notebook\Notebook\Notebook.Core\bin\Debug\netcoreapp3.1\Notebook.Core.pdb
+D:\asp.net core\Notebook\Notebook\Notebook.Core\obj\Debug\netcoreapp3.1\Notebook.Core.csprojAssemblyReference.cache
+D:\asp.net core\Notebook\Notebook\Notebook.Core\obj\Debug\netcoreapp3.1\Notebook.Core.AssemblyInfoInputs.cache
+D:\asp.net core\Notebook\Notebook\Notebook.Core\obj\Debug\netcoreapp3.1\Notebook.Core.AssemblyInfo.cs
+D:\asp.net core\Notebook\Notebook\Notebook.Core\obj\Debug\netcoreapp3.1\Notebook.Core.csproj.CoreCompileInputs.cache
+D:\asp.net core\Notebook\Notebook\Notebook.Core\obj\Debug\netcoreapp3.1\Notebook.Core.dll
+D:\asp.net core\Notebook\Notebook\Notebook.Core\obj\Debug\netcoreapp3.1\Notebook.Core.pdb

@@ -2,3 +2,11 @@ D:\asp.net core\Notebook\Notebook\Notebook.Infrastructure\bin\Debug\netcoreapp3.
 D:\asp.net core\Notebook\Notebook\Notebook.Infrastructure\obj\Debug\netcoreapp3.1\Notebook.Infrastructure.csprojAssemblyReference.cache
 D:\asp.net core\Notebook\Notebook\Notebook.Infrastructure\obj\Debug\netcoreapp3.1\Notebook.Infrastructure.AssemblyInfoInputs.cache
 D:\asp.net core\Notebook\Notebook\Notebook.Infrastructure\obj\Debug\netcoreapp3.1\Notebook.Infrastructure.AssemblyInfo.cs
+D:\asp.net core\Notebook\Notebook\Notebook.Infrastructure\bin\Debug\netcoreapp3.1\Notebook.Infrastructure.deps.json
+D:\asp.net core\Notebook\Notebook\Notebook.Infrastructure\bin\Debug\netcoreapp3.1\Notebook.Infrastructure.dll
+D:\asp.net core\Notebook\Notebook\Notebook.Infrastructure\bin\Debug\netcoreapp3.1\Notebook.Infrastructure.pdb
+D:\asp.net core\Notebook\Notebook\Notebook.Infrastructure\bin\Debug\netcoreapp3.1\Notebook.Core.pdb
+D:\asp.net core\Notebook\Notebook\Notebook.Infrastructure\obj\Debug\netcoreapp3.1\Notebook.Infrastructure.csproj.CoreCompileInputs.cache
+D:\asp.net core\Notebook\Notebook\Notebook.Infrastructure\obj\Debug\netcoreapp3.1\Notebook.Infrastructure.csproj.CopyComplete
+D:\asp.net core\Notebook\Notebook\Notebook.Infrastructure\obj\Debug\netcoreapp3.1\Notebook.Infrastructure.dll
+D:\asp.net core\Notebook\Notebook\Notebook.Infrastructure\obj\Debug\netcoreapp3.1\Notebook.Infrastructure.pdb
